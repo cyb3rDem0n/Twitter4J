@@ -11,8 +11,8 @@
 
     <!-- Dati di accesso API Twitter -->
     <string name="twitter_callback"></string>
-    <string name="twitter_consumer_key">wBJPyJZBy0cHfwGUMxxa2VANE</string>
-    <string name="twitter_consumer_secret">	UA4gl2UZne5aUkYH5NaoVHfCsF5HWDkOmSWyPORgb4QuWcz2oi</string>
+    <string name="twitter_consumer_key">xxxyourconsumerKherexxx</string>
+    <string name="twitter_consumer_secret">	xxxyourconsumerSherexxx</string>
     <string name="twitter_oauth_verifier">oauth_verifier</string>
     <string name="getFriendList">Get Friend List</string>
     <string name="logout">Logout</string>
