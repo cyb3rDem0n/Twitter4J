@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Twitter4J_Tesi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello, </string>
+<string name="login_instructions">This Twitter4j based app, is designed to effectuate different
+    https API Twitter requests. All requests will be proxed to a MITM server that will perform fine-grained access control of
+    informations and access policy for this third party app</string>
+    <string name="share_instructions">Enter share message</string>
+    <string name="btn_login">Login to Twitter</string>
+    <string name="btn_share">Share</string>
+
+    <!-- Dati di accesso API Twitter -->
+    <string name="twitter_callback"></string>
+    <string name="twitter_consumer_key">wBJPyJZBy0cHfwGUMxxa2VANE</string>
+    <string name="twitter_consumer_secret">	UA4gl2UZne5aUkYH5NaoVHfCsF5HWDkOmSWyPORgb4QuWcz2oi</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="getFriendList">Get Friend List</string>
+    <string name="logout">Logout</string>
+    <string name="getFollowersList">Get Followers</string>
+    <string name="content">content</string>
+    <string name="content2">content</string>
+    <string name="back">BACK</string>
+    <!---->
+</resources>
